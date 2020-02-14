@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 aaaaaaaaaaaaaa
 
+=======
+bbbbbbbbbb
+>>>>>>> issue1
